@@ -1,0 +1,29 @@
+.wapper {
+  margin: 0 25px;
+}
+
+.header {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000;
+  margin-bottom: 18px;
+}
+
+.container {
+}
+
+.image {
+  width: 128px;
+  height: 128px;
+  /* float: left; */
+  float: left;
+  position: relative;
+  margin-right: 16px;
+}
+
+.content {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}

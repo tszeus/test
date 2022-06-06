@@ -1,0 +1,15 @@
+.wapper {
+  width: 150px;
+  background-color: #191718;
+}
+
+.tabItem {
+  font-style: normal;
+  height: 44px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #fff;
+  border-bottom: 1px solid #5c5c5c;
+  padding: 14px 77px 11px 16px;
+}
